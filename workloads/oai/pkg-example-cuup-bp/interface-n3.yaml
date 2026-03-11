@@ -9,6 +9,6 @@ metadata:
     specializer.nephio.org/namespace: example
 spec:
   networkInstance:
-    name: vpc-ran
+    name: vpc-internet
   cniType: macvlan
   attachmentType: vlan
